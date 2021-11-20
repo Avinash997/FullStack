@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image1": "assets/images/uthapizza.png",
+      "im": "assets/images/uthappizza.png",
       "image":"https://giphy.com/clips/tlceurope-tlc-europe-7-little-johnsons-1hvDBAKnviukFKA0EM",
       "category": "mains",
       "label": "Hot",

@@ -3,7 +3,8 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "assets/images/uthappizza.png",
+      "image1": "assets/images/uthappizza.png",
+      "image":"https://giphy.com/clips/tlceurope-tlc-europe-7-little-johnsons-1hvDBAKnviukFKA0EM",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -245,8 +246,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image1": "assets/images/albrto.png",
-      "image":"https://giphy.com/clips/tlceurope-tlc-europe-7-little-johnsons-1hvDBAKnviukFKA0EM",
+      "image": "assets/images/alberto.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
